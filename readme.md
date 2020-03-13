@@ -10,8 +10,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <img 
-        src="https://raw.githubusercontent.com/paraboly/pwc-simple-card/master/assets/Screnshots/pwc-simple-card.png" />
+  <img a
+        src="https://raw.githubusercontent.com/paraboly/pwc-simple-card/master/assets/Screenshots/pwc-simple-card.png" />
 </p>
 
 ## [Live Codepen Example](https://codepen.io/mertuslu12/pen/WNvzOJd)
