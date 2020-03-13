@@ -10,11 +10,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <img alt="WebComponent PWC README Boilerplate"
-        src="https://raw.githubusercontent.com/paraboly/pwc-simple-card/master/assets/Screenshots/JSLibraryBoilerplate.png" />
+  <img 
+        src="https://raw.githubusercontent.com/paraboly/pwc-simple-card/master/assets/Screnshots/pwc-simple-card.png" />
 </p>
 
-## [Live Codepen Example](https://codepen.io/wrathchaos/pen/dyyvRzM)
+## [Live Codepen Example](https://codepen.io/mertuslu12/pen/WNvzOJd)
 
 ## Installation
 
@@ -51,45 +51,35 @@
 
 ## Basic Usage
 
-This is just an example from pwc-animated-checkbox, you need to change it!
+This is just an example from pwc-simple-card, you need to change it!
 
 ```html
-<pwc-animated-checkbox></pwc-animated-checkbox>
+<pwc-simple-card
+  card-title="Lorem Ipsum?"
+  card-details="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget ultricies dui, sed varius ipsum."
+></pwc-simple-card>
 ```
-
-## Checkbox onCheckChange Listener Usage
 
 ### JS Way
 
-This is just an example from pwc-animated-checkbox, you need to change it!
+This is just an example from pwc-simple-card, you need to change it!
 
 ```js
-// Multiple Checkboxes
-const pwcCheckboxes = document.querySelectorAll("pwc-animated-checkbox");
-pwcCheckboxes.forEach(element => {
-  element.addEventListener("checkedEvent", event => {
-    console.log("Event: ", event.detail);
-  });
-})
-// Selects the first checkbox
-const pwcCheckbox = document.querySelector("pwc-animated-checkbox");
-pwcCheckbox.addEventListener("checkedEvent", event => {
-console.log("First Element Event: ", event.detail);
+const pwcSimpleCard = document.querySelector("pwc-simple-card");
+pwcSimpleCard.source = require("assets/your-img");
 ```
 
 ## Future Plans
 
 - [x] ~~Documentation~~
-- [x] ~~LICENSE~~
-- [ ] Color Customization
-- [ ] Animation Bug Fix
+- [ ] Dark Theme
 
 ## Authors
 
-Author, author@work_email.com | author@personal_email.com
+Mert Uslu, u.mertuslu@gmail.com
 
 ## License
 
-WebComponent PWC README Boilerplate is available under the MIT license.
+WebComponent PWC SimpleCard is available under the MIT license.
 
 See the LICENSE file for more info.
