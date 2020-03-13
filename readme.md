@@ -2,7 +2,7 @@
 
 ![WebComponent PWC README Boilerplate](https://raw.githubusercontent.com/paraboly/pwc-simple-card/master/assets/logo.png)
 
-[![Fully customizable readme boilerplate for web component with StencilJS via Paraboly](https://img.shields.io/badge/-Fully%20customizable%20readme%20boilerplate%20for%20web%20component%20with%20StencilJS%20via%20Paraboly-lightgrey?style=for-the-badge)](https://github.com/Paraboly/pwc-simple-card)
+[![Plug & Play Simple Card View for Web by Paraboly via StencilJS](https://img.shields.io/badge/-Plug%20%26%20Play%20Simple%20Card%20View%20for%20Web%20by%20Paraboly%20via%20StencilJS-lightgrey?style=for-the-badge)](https://github.com/Paraboly/pwc-simple-card)
 
 [![npm version](https://img.shields.io/npm/v/@paraboly/pwc-simple-card.svg?style=for-the-badge)](https://www.npmjs.com/package/@paraboly/pwc-simple-card)
 [![npm](https://img.shields.io/npm/dt/@paraboly/pwc-simple-card.svg?style=for-the-badge)](https://www.npmjs.com/package/@paraboly/pwc-simple-card)
